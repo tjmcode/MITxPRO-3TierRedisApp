@@ -33,6 +33,11 @@ npm install
 "start": "node index.js",
 ```
 
+* Go the Docker Desktop and start the "MITxPRO-Redis" Server
+```
+Click 'Run' on Docker Container
+```
+
 * Use "npm start" command in the project folder to start the GraphQL App development environment
 ```
 npm start
